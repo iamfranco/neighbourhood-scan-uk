@@ -9,12 +9,15 @@
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
     "generate-pwa-assets": "pwa-assets-generator",
-    "test": "vitest"
+    "test": "vitest",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@testing-library/react": "^14.1.0",
     "@testing-library/user-event": "^14.5.1",
     "@vite-pwa/assets-generator": "^0.0.10",
+    "gh-pages": "^6.0.0",
     "jsdom": "^22.1.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
