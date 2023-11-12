@@ -1,0 +1,1 @@
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/neighbourhood-scan-uk/sw.js', { scope: '/neighbourhood-scan-uk/' })})}
