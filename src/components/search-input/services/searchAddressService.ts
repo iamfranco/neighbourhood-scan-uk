@@ -8,7 +8,9 @@ const search = async (address: string) : Promise<AddressDetails | null> => {
 
   const addressDetails: AddressDetails = {
     latitude: nominatimSearchResponse.lat,
-    longitude: nominatimSearchResponse.lon
+    longitude: nominatimSearchResponse.lon,
+    postcode: nominatimSearchResponse.address.postcode,
+    city: nominatimSearchResponse.address.city
   }
 
   return addressDetails;

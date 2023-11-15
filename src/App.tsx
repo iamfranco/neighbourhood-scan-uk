@@ -22,7 +22,15 @@ function App() {
       <SearchInput />
 
       <div>
-        {address && `(${address.longitude}, ${address.latitude})`} 
+        (lat, lon): {address && `(${address.latitude}, ${address.longitude})`} 
+      </div>
+
+      <div>
+        Postcode: {address && address.postcode}
+      </div>
+
+      <div>
+        City: {address && address.city}
       </div>
     </AddressContext.Provider>
   )

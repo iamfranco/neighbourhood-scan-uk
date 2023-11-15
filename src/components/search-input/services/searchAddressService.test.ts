@@ -17,7 +17,9 @@ describe('searchAddressService', () => {
     // Assert
     const addressDetails: AddressDetails = {
       latitude: nominatimSearchResponse.lat,
-      longitude: nominatimSearchResponse.lon
+      longitude: nominatimSearchResponse.lon,
+      postcode: nominatimSearchResponse.address.postcode,
+      city: nominatimSearchResponse.address.city
     }
     expect(result).toEqual(addressDetails);
   })
