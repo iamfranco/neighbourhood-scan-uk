@@ -11,6 +11,7 @@ export interface NominatimSearchResponse {
     city: string,
     state_district: string,
     state: string,
+    postcode: string,
     country: string
   },
   boundingbox: [number, number, number, number]
@@ -29,6 +30,7 @@ export const makeRandomNominatimSearchResponse = (): NominatimSearchResponse => 
     city: Math.random().toString(),
     state_district: Math.random().toString(),
     state: Math.random().toString(),
+    postcode: Math.random().toString(),
     country: Math.random().toString()
   },
   boundingbox: [Math.random(), Math.random(), Math.random(), Math.random()]
