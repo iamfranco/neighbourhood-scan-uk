@@ -1,9 +1,10 @@
 import { ChangeEvent, useContext, useState } from 'react'
 import { searchAddressService } from './services/searchAddressService'
 import { AddressContext } from '../../App';
+import { demographicService } from '../../services/demographicService/demographicService';
 
 const SearchInput = () => {
-  const {setAddress} = useContext(AddressContext);
+  const {setAddress, setDemographicData} = useContext(AddressContext);
 
   const [addressText, setAddressText] = useState('');
 
@@ -17,6 +18,11 @@ const SearchInput = () => {
     
     const addressDetails = await searchAddressService.search(addressText);
     setAddress(addressDetails);
+
+    if (addressDetails == null) return;
+
+    const demographicData = await demographicService.getDemographicData(addressDetails.censusLocationIndex);
+    setDemographicData(demographicData);
   }
 
   return (
