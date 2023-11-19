@@ -1,9 +1,9 @@
-export interface NomisEthnicityResponse {
+export interface NomisAgeResponse {
   error: string,
   updated: string,
   value: number[],
   dimension: {
-    c2021_eth_20: {
+    c2021_age_102: {
       label: string,
       category: {
         index: { [id: string]: number },
@@ -13,7 +13,7 @@ export interface NomisEthnicityResponse {
   }
 }
 
-export const makeRandomNomisEthnicityResponse = (): NomisEthnicityResponse => ({
+export const makeRandomNomisAgeResponse = (): NomisAgeResponse => ({
   error: Math.random().toString(),
   updated: Math.random().toString(),
   value: [
@@ -24,22 +24,22 @@ export const makeRandomNomisEthnicityResponse = (): NomisEthnicityResponse => ({
     Math.random()
   ],
   dimension: {
-    c2021_eth_20: {
+    c2021_age_102: {
       label: Math.random().toString(),
       category: {
         index: {
-          "1001": 1,
-          "1002": 2,
-          "1003": 3,
-          "1004": 4,
-          "1005": 5
+          "1": 0,
+          "2": 1,
+          "3": 2,
+          "4": 3,
+          "5": 4
         },
         label: {
-          "1001": "Asian, Asian British or Asian Welsh",
-          "1002": "Black, Black British, Black Welsh, Caribbean or African",
-          "1003": "Mixed or Multiple ethnic groups",
-          "1004": "White",
-          "1005": "Other ethnic group"
+          "1": "Aged under 1 year",
+          "2": "Aged 1 year",
+          "3": "Aged 2 years",
+          "4": "Aged 3 years",
+          "5": "Aged 4 years"
         }
       }
     }
