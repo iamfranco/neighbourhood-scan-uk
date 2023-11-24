@@ -1,3 +1,5 @@
+$non-chart-height: 100px;
+
 input {
   border: 2px solid #ccc;
   outline: none;
@@ -12,4 +14,9 @@ button {
   box-sizing: border-box;
   border: 2px solid #ccc;
   margin-left: 10px;
+}
+
+.line-chart-container {
+  height: calc(100vh - $non-chart-height);
+  padding: 0 10px;
 }

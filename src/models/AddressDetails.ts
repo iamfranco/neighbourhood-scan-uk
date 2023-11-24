@@ -1,3 +1,5 @@
+import { DemographicData, makeRandomDemographicData } from "../services/demographicService/models/DemographicData"
+
 export interface AddressDetails {
   latitude: string,
   longitude: string,
@@ -5,7 +7,8 @@ export interface AddressDetails {
   city: string,
   censusLocationLabel: string,
   censusLocationCode: string,
-  censusLocationIndex: number
+  censusLocationIndex: number,
+  demographicData?: DemographicData | null
 }
 
 export const makeRandomAddressDetails = () : AddressDetails => ({
@@ -15,5 +18,6 @@ export const makeRandomAddressDetails = () : AddressDetails => ({
   city: Math.random().toString(),
   censusLocationLabel: Math.random().toString(),
   censusLocationCode: Math.random().toString(),
-  censusLocationIndex: Math.random()
+  censusLocationIndex: Math.random(),
+  demographicData: makeRandomDemographicData()
 })
