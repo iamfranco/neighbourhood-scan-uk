@@ -21,7 +21,8 @@ describe('addressDetailsBuilder', () => {
       censusLocationLabel: addressDetails.censusLocationLabel,
       censusLocationCode: addressDetails.censusLocationCode,
       censusLocationIndex: addressDetails.censusLocationIndex,
-      demographicData: demographicData
+      type464LocationIndex: addressDetails.type464LocationIndex,
+      demographicData: demographicData,
     }
 
     expect(addressDetailsWithDemographicData).toEqual(expectedAddressDetails);

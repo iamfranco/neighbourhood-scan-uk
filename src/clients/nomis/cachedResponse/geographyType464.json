@@ -1,0 +1,4332 @@
+[
+  {
+    "value": 1946157057,
+    "label": "Darlington",
+    "gss": "E06000005",
+    "cov": 3,
+    "parents": [
+      2013265921,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157058,
+    "label": "County Durham",
+    "gss": "E06000047",
+    "cov": 3,
+    "parents": [
+      2013265921,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157059,
+    "label": "Hartlepool",
+    "gss": "E06000001",
+    "cov": 3,
+    "parents": [
+      2013265921,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157060,
+    "label": "Middlesbrough",
+    "gss": "E06000002",
+    "cov": 3,
+    "parents": [
+      2013265921,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157061,
+    "label": "Northumberland",
+    "gss": "E06000057",
+    "cov": 3,
+    "parents": [
+      2013265921,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157062,
+    "label": "Redcar and Cleveland",
+    "gss": "E06000003",
+    "cov": 3,
+    "parents": [
+      2013265921,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157063,
+    "label": "Stockton-on-Tees",
+    "gss": "E06000004",
+    "cov": 3,
+    "parents": [
+      2013265921,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157064,
+    "label": "Gateshead",
+    "gss": "E08000037",
+    "cov": 3,
+    "parents": [
+      2013265921,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157065,
+    "label": "Newcastle upon Tyne",
+    "gss": "E08000021",
+    "cov": 3,
+    "parents": [
+      2013265921,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157066,
+    "label": "North Tyneside",
+    "gss": "E08000022",
+    "cov": 3,
+    "parents": [
+      2013265921,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157067,
+    "label": "South Tyneside",
+    "gss": "E08000023",
+    "cov": 3,
+    "parents": [
+      2013265921,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157068,
+    "label": "Sunderland",
+    "gss": "E08000024",
+    "cov": 3,
+    "parents": [
+      2013265921,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157069,
+    "label": "Blackburn with Darwen",
+    "gss": "E06000008",
+    "cov": 3,
+    "parents": [
+      2013265922,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157070,
+    "label": "Blackpool",
+    "gss": "E06000009",
+    "cov": 3,
+    "parents": [
+      2013265922,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157071,
+    "label": "Cheshire East",
+    "gss": "E06000049",
+    "cov": 3,
+    "parents": [
+      2013265922,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157072,
+    "label": "Cheshire West and Chester",
+    "gss": "E06000050",
+    "cov": 3,
+    "parents": [
+      2013265922,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157073,
+    "label": "Halton",
+    "gss": "E06000006",
+    "cov": 3,
+    "parents": [
+      2013265922,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157074,
+    "label": "Warrington",
+    "gss": "E06000007",
+    "cov": 3,
+    "parents": [
+      2013265922,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157075,
+    "label": "Allerdale",
+    "gss": "E07000026",
+    "cov": 3,
+    "parents": [
+      2013265922,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157076,
+    "label": "Barrow-in-Furness",
+    "gss": "E07000027",
+    "cov": 3,
+    "parents": [
+      2013265922,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157077,
+    "label": "Carlisle",
+    "gss": "E07000028",
+    "cov": 3,
+    "parents": [
+      2013265922,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157078,
+    "label": "Copeland",
+    "gss": "E07000029",
+    "cov": 3,
+    "parents": [
+      2013265922,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157079,
+    "label": "Eden",
+    "gss": "E07000030",
+    "cov": 3,
+    "parents": [
+      2013265922,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157080,
+    "label": "South Lakeland",
+    "gss": "E07000031",
+    "cov": 3,
+    "parents": [
+      2013265922,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157081,
+    "label": "Bolton",
+    "gss": "E08000001",
+    "cov": 3,
+    "parents": [
+      2013265922,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157082,
+    "label": "Bury",
+    "gss": "E08000002",
+    "cov": 3,
+    "parents": [
+      2013265922,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157083,
+    "label": "Manchester",
+    "gss": "E08000003",
+    "cov": 3,
+    "parents": [
+      2013265922,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157084,
+    "label": "Oldham",
+    "gss": "E08000004",
+    "cov": 3,
+    "parents": [
+      2013265922,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157085,
+    "label": "Rochdale",
+    "gss": "E08000005",
+    "cov": 3,
+    "parents": [
+      2013265922,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157086,
+    "label": "Salford",
+    "gss": "E08000006",
+    "cov": 3,
+    "parents": [
+      2013265922,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157087,
+    "label": "Stockport",
+    "gss": "E08000007",
+    "cov": 3,
+    "parents": [
+      2013265922,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157088,
+    "label": "Tameside",
+    "gss": "E08000008",
+    "cov": 3,
+    "parents": [
+      2013265922,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157089,
+    "label": "Trafford",
+    "gss": "E08000009",
+    "cov": 3,
+    "parents": [
+      2013265922,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157090,
+    "label": "Wigan",
+    "gss": "E08000010",
+    "cov": 3,
+    "parents": [
+      2013265922,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157091,
+    "label": "Burnley",
+    "gss": "E07000117",
+    "cov": 3,
+    "parents": [
+      2013265922,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157092,
+    "label": "Chorley",
+    "gss": "E07000118",
+    "cov": 3,
+    "parents": [
+      2013265922,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157093,
+    "label": "Fylde",
+    "gss": "E07000119",
+    "cov": 3,
+    "parents": [
+      2013265922,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157094,
+    "label": "Hyndburn",
+    "gss": "E07000120",
+    "cov": 3,
+    "parents": [
+      2013265922,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157095,
+    "label": "Lancaster",
+    "gss": "E07000121",
+    "cov": 3,
+    "parents": [
+      2013265922,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157096,
+    "label": "Pendle",
+    "gss": "E07000122",
+    "cov": 3,
+    "parents": [
+      2013265922,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157097,
+    "label": "Preston",
+    "gss": "E07000123",
+    "cov": 3,
+    "parents": [
+      2013265922,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157098,
+    "label": "Ribble Valley",
+    "gss": "E07000124",
+    "cov": 3,
+    "parents": [
+      2013265922,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157099,
+    "label": "Rossendale",
+    "gss": "E07000125",
+    "cov": 3,
+    "parents": [
+      2013265922,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157100,
+    "label": "South Ribble",
+    "gss": "E07000126",
+    "cov": 3,
+    "parents": [
+      2013265922,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157101,
+    "label": "West Lancashire",
+    "gss": "E07000127",
+    "cov": 3,
+    "parents": [
+      2013265922,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157102,
+    "label": "Wyre",
+    "gss": "E07000128",
+    "cov": 3,
+    "parents": [
+      2013265922,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157103,
+    "label": "Knowsley",
+    "gss": "E08000011",
+    "cov": 3,
+    "parents": [
+      2013265922,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157104,
+    "label": "Liverpool",
+    "gss": "E08000012",
+    "cov": 3,
+    "parents": [
+      2013265922,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157105,
+    "label": "Sefton",
+    "gss": "E08000014",
+    "cov": 3,
+    "parents": [
+      2013265922,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157106,
+    "label": "St. Helens",
+    "gss": "E08000013",
+    "cov": 3,
+    "parents": [
+      2013265922,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157107,
+    "label": "Wirral",
+    "gss": "E08000015",
+    "cov": 3,
+    "parents": [
+      2013265922,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157108,
+    "label": "East Riding of Yorkshire",
+    "gss": "E06000011",
+    "cov": 3,
+    "parents": [
+      2013265923,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157109,
+    "label": "Kingston upon Hull, City of",
+    "gss": "E06000010",
+    "cov": 3,
+    "parents": [
+      2013265923,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157110,
+    "label": "North East Lincolnshire",
+    "gss": "E06000012",
+    "cov": 3,
+    "parents": [
+      2013265923,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157111,
+    "label": "North Lincolnshire",
+    "gss": "E06000013",
+    "cov": 3,
+    "parents": [
+      2013265923,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157112,
+    "label": "York",
+    "gss": "E06000014",
+    "cov": 3,
+    "parents": [
+      2013265923,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157113,
+    "label": "Craven",
+    "gss": "E07000163",
+    "cov": 3,
+    "parents": [
+      2013265923,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157114,
+    "label": "Hambleton",
+    "gss": "E07000164",
+    "cov": 3,
+    "parents": [
+      2013265923,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157115,
+    "label": "Harrogate",
+    "gss": "E07000165",
+    "cov": 3,
+    "parents": [
+      2013265923,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157116,
+    "label": "Richmondshire",
+    "gss": "E07000166",
+    "cov": 3,
+    "parents": [
+      2013265923,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157117,
+    "label": "Ryedale",
+    "gss": "E07000167",
+    "cov": 3,
+    "parents": [
+      2013265923,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157118,
+    "label": "Scarborough",
+    "gss": "E07000168",
+    "cov": 3,
+    "parents": [
+      2013265923,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157119,
+    "label": "Selby",
+    "gss": "E07000169",
+    "cov": 3,
+    "parents": [
+      2013265923,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157120,
+    "label": "Barnsley",
+    "gss": "E08000016",
+    "cov": 3,
+    "parents": [
+      2013265923,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157121,
+    "label": "Doncaster",
+    "gss": "E08000017",
+    "cov": 3,
+    "parents": [
+      2013265923,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157122,
+    "label": "Rotherham",
+    "gss": "E08000018",
+    "cov": 3,
+    "parents": [
+      2013265923,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157123,
+    "label": "Sheffield",
+    "gss": "E08000019",
+    "cov": 3,
+    "parents": [
+      2013265923,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157124,
+    "label": "Bradford",
+    "gss": "E08000032",
+    "cov": 3,
+    "parents": [
+      2013265923,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157125,
+    "label": "Calderdale",
+    "gss": "E08000033",
+    "cov": 3,
+    "parents": [
+      2013265923,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157126,
+    "label": "Kirklees",
+    "gss": "E08000034",
+    "cov": 3,
+    "parents": [
+      2013265923,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157127,
+    "label": "Leeds",
+    "gss": "E08000035",
+    "cov": 3,
+    "parents": [
+      2013265923,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157128,
+    "label": "Wakefield",
+    "gss": "E08000036",
+    "cov": 3,
+    "parents": [
+      2013265923,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157129,
+    "label": "Derby",
+    "gss": "E06000015",
+    "cov": 3,
+    "parents": [
+      2013265924,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157130,
+    "label": "Leicester",
+    "gss": "E06000016",
+    "cov": 3,
+    "parents": [
+      2013265924,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157131,
+    "label": "Nottingham",
+    "gss": "E06000018",
+    "cov": 3,
+    "parents": [
+      2013265924,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157132,
+    "label": "Rutland",
+    "gss": "E06000017",
+    "cov": 3,
+    "parents": [
+      2013265924,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157133,
+    "label": "Amber Valley",
+    "gss": "E07000032",
+    "cov": 3,
+    "parents": [
+      2013265924,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157134,
+    "label": "Bolsover",
+    "gss": "E07000033",
+    "cov": 3,
+    "parents": [
+      2013265924,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157135,
+    "label": "Chesterfield",
+    "gss": "E07000034",
+    "cov": 3,
+    "parents": [
+      2013265924,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157136,
+    "label": "Derbyshire Dales",
+    "gss": "E07000035",
+    "cov": 3,
+    "parents": [
+      2013265924,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157137,
+    "label": "Erewash",
+    "gss": "E07000036",
+    "cov": 3,
+    "parents": [
+      2013265924,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157138,
+    "label": "High Peak",
+    "gss": "E07000037",
+    "cov": 3,
+    "parents": [
+      2013265924,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157139,
+    "label": "North East Derbyshire",
+    "gss": "E07000038",
+    "cov": 3,
+    "parents": [
+      2013265924,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157140,
+    "label": "South Derbyshire",
+    "gss": "E07000039",
+    "cov": 3,
+    "parents": [
+      2013265924,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157141,
+    "label": "Blaby",
+    "gss": "E07000129",
+    "cov": 3,
+    "parents": [
+      2013265924,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157142,
+    "label": "Charnwood",
+    "gss": "E07000130",
+    "cov": 3,
+    "parents": [
+      2013265924,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157143,
+    "label": "Harborough",
+    "gss": "E07000131",
+    "cov": 3,
+    "parents": [
+      2013265924,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157144,
+    "label": "Hinckley and Bosworth",
+    "gss": "E07000132",
+    "cov": 3,
+    "parents": [
+      2013265924,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157145,
+    "label": "Melton",
+    "gss": "E07000133",
+    "cov": 3,
+    "parents": [
+      2013265924,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157146,
+    "label": "North West Leicestershire",
+    "gss": "E07000134",
+    "cov": 3,
+    "parents": [
+      2013265924,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157147,
+    "label": "Oadby and Wigston",
+    "gss": "E07000135",
+    "cov": 3,
+    "parents": [
+      2013265924,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157148,
+    "label": "Boston",
+    "gss": "E07000136",
+    "cov": 3,
+    "parents": [
+      2013265924,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157149,
+    "label": "East Lindsey",
+    "gss": "E07000137",
+    "cov": 3,
+    "parents": [
+      2013265924,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157150,
+    "label": "Lincoln",
+    "gss": "E07000138",
+    "cov": 3,
+    "parents": [
+      2013265924,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157151,
+    "label": "North Kesteven",
+    "gss": "E07000139",
+    "cov": 3,
+    "parents": [
+      2013265924,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157152,
+    "label": "South Holland",
+    "gss": "E07000140",
+    "cov": 3,
+    "parents": [
+      2013265924,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157153,
+    "label": "South Kesteven",
+    "gss": "E07000141",
+    "cov": 3,
+    "parents": [
+      2013265924,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157154,
+    "label": "West Lindsey",
+    "gss": "E07000142",
+    "cov": 3,
+    "parents": [
+      2013265924,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157155,
+    "label": "Corby",
+    "gss": "E07000150",
+    "cov": 3,
+    "parents": [
+      2013265924,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157156,
+    "label": "Daventry",
+    "gss": "E07000151",
+    "cov": 3,
+    "parents": [
+      2013265924,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157157,
+    "label": "East Northamptonshire",
+    "gss": "E07000152",
+    "cov": 3,
+    "parents": [
+      2013265924,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157158,
+    "label": "Kettering",
+    "gss": "E07000153",
+    "cov": 3,
+    "parents": [
+      2013265924,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157159,
+    "label": "Northampton",
+    "gss": "E07000154",
+    "cov": 3,
+    "parents": [
+      2013265924,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157160,
+    "label": "South Northamptonshire",
+    "gss": "E07000155",
+    "cov": 3,
+    "parents": [
+      2013265924,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157161,
+    "label": "Wellingborough",
+    "gss": "E07000156",
+    "cov": 3,
+    "parents": [
+      2013265924,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157162,
+    "label": "Ashfield",
+    "gss": "E07000170",
+    "cov": 3,
+    "parents": [
+      2013265924,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157163,
+    "label": "Bassetlaw",
+    "gss": "E07000171",
+    "cov": 3,
+    "parents": [
+      2013265924,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157164,
+    "label": "Broxtowe",
+    "gss": "E07000172",
+    "cov": 3,
+    "parents": [
+      2013265924,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157165,
+    "label": "Gedling",
+    "gss": "E07000173",
+    "cov": 3,
+    "parents": [
+      2013265924,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157166,
+    "label": "Mansfield",
+    "gss": "E07000174",
+    "cov": 3,
+    "parents": [
+      2013265924,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157167,
+    "label": "Newark and Sherwood",
+    "gss": "E07000175",
+    "cov": 3,
+    "parents": [
+      2013265924,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157168,
+    "label": "Rushcliffe",
+    "gss": "E07000176",
+    "cov": 3,
+    "parents": [
+      2013265924,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157169,
+    "label": "Herefordshire, County of",
+    "gss": "E06000019",
+    "cov": 3,
+    "parents": [
+      2013265925,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157170,
+    "label": "Shropshire",
+    "gss": "E06000051",
+    "cov": 3,
+    "parents": [
+      2013265925,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157171,
+    "label": "Stoke-on-Trent",
+    "gss": "E06000021",
+    "cov": 3,
+    "parents": [
+      2013265925,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157172,
+    "label": "Telford and Wrekin",
+    "gss": "E06000020",
+    "cov": 3,
+    "parents": [
+      2013265925,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157173,
+    "label": "Cannock Chase",
+    "gss": "E07000192",
+    "cov": 3,
+    "parents": [
+      2013265925,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157174,
+    "label": "East Staffordshire",
+    "gss": "E07000193",
+    "cov": 3,
+    "parents": [
+      2013265925,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157175,
+    "label": "Lichfield",
+    "gss": "E07000194",
+    "cov": 3,
+    "parents": [
+      2013265925,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157176,
+    "label": "Newcastle-under-Lyme",
+    "gss": "E07000195",
+    "cov": 3,
+    "parents": [
+      2013265925,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157177,
+    "label": "South Staffordshire",
+    "gss": "E07000196",
+    "cov": 3,
+    "parents": [
+      2013265925,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157178,
+    "label": "Stafford",
+    "gss": "E07000197",
+    "cov": 3,
+    "parents": [
+      2013265925,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157179,
+    "label": "Staffordshire Moorlands",
+    "gss": "E07000198",
+    "cov": 3,
+    "parents": [
+      2013265925,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157180,
+    "label": "Tamworth",
+    "gss": "E07000199",
+    "cov": 3,
+    "parents": [
+      2013265925,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157181,
+    "label": "North Warwickshire",
+    "gss": "E07000218",
+    "cov": 3,
+    "parents": [
+      2013265925,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157182,
+    "label": "Nuneaton and Bedworth",
+    "gss": "E07000219",
+    "cov": 3,
+    "parents": [
+      2013265925,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157183,
+    "label": "Rugby",
+    "gss": "E07000220",
+    "cov": 3,
+    "parents": [
+      2013265925,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157184,
+    "label": "Stratford-on-Avon",
+    "gss": "E07000221",
+    "cov": 3,
+    "parents": [
+      2013265925,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157185,
+    "label": "Warwick",
+    "gss": "E07000222",
+    "cov": 3,
+    "parents": [
+      2013265925,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157186,
+    "label": "Birmingham",
+    "gss": "E08000025",
+    "cov": 3,
+    "parents": [
+      2013265925,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157187,
+    "label": "Coventry",
+    "gss": "E08000026",
+    "cov": 3,
+    "parents": [
+      2013265925,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157188,
+    "label": "Dudley",
+    "gss": "E08000027",
+    "cov": 3,
+    "parents": [
+      2013265925,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157189,
+    "label": "Sandwell",
+    "gss": "E08000028",
+    "cov": 3,
+    "parents": [
+      2013265925,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157190,
+    "label": "Solihull",
+    "gss": "E08000029",
+    "cov": 3,
+    "parents": [
+      2013265925,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157191,
+    "label": "Walsall",
+    "gss": "E08000030",
+    "cov": 3,
+    "parents": [
+      2013265925,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157192,
+    "label": "Wolverhampton",
+    "gss": "E08000031",
+    "cov": 3,
+    "parents": [
+      2013265925,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157193,
+    "label": "Bromsgrove",
+    "gss": "E07000234",
+    "cov": 3,
+    "parents": [
+      2013265925,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157194,
+    "label": "Malvern Hills",
+    "gss": "E07000235",
+    "cov": 3,
+    "parents": [
+      2013265925,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157195,
+    "label": "Redditch",
+    "gss": "E07000236",
+    "cov": 3,
+    "parents": [
+      2013265925,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157196,
+    "label": "Worcester",
+    "gss": "E07000237",
+    "cov": 3,
+    "parents": [
+      2013265925,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157197,
+    "label": "Wychavon",
+    "gss": "E07000238",
+    "cov": 3,
+    "parents": [
+      2013265925,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157198,
+    "label": "Wyre Forest",
+    "gss": "E07000239",
+    "cov": 3,
+    "parents": [
+      2013265925,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157199,
+    "label": "Bedford",
+    "gss": "E06000055",
+    "cov": 3,
+    "parents": [
+      2013265926,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157200,
+    "label": "Central Bedfordshire",
+    "gss": "E06000056",
+    "cov": 3,
+    "parents": [
+      2013265926,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157201,
+    "label": "Luton",
+    "gss": "E06000032",
+    "cov": 3,
+    "parents": [
+      2013265926,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157202,
+    "label": "Peterborough",
+    "gss": "E06000031",
+    "cov": 3,
+    "parents": [
+      2013265926,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157203,
+    "label": "Southend-on-Sea",
+    "gss": "E06000033",
+    "cov": 3,
+    "parents": [
+      2013265926,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157204,
+    "label": "Thurrock",
+    "gss": "E06000034",
+    "cov": 3,
+    "parents": [
+      2013265926,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157205,
+    "label": "Cambridge",
+    "gss": "E07000008",
+    "cov": 3,
+    "parents": [
+      2013265926,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157206,
+    "label": "East Cambridgeshire",
+    "gss": "E07000009",
+    "cov": 3,
+    "parents": [
+      2013265926,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157207,
+    "label": "Fenland",
+    "gss": "E07000010",
+    "cov": 3,
+    "parents": [
+      2013265926,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157208,
+    "label": "Huntingdonshire",
+    "gss": "E07000011",
+    "cov": 3,
+    "parents": [
+      2013265926,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157209,
+    "label": "South Cambridgeshire",
+    "gss": "E07000012",
+    "cov": 3,
+    "parents": [
+      2013265926,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157210,
+    "label": "Basildon",
+    "gss": "E07000066",
+    "cov": 3,
+    "parents": [
+      2013265926,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157211,
+    "label": "Braintree",
+    "gss": "E07000067",
+    "cov": 3,
+    "parents": [
+      2013265926,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157212,
+    "label": "Brentwood",
+    "gss": "E07000068",
+    "cov": 3,
+    "parents": [
+      2013265926,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157213,
+    "label": "Castle Point",
+    "gss": "E07000069",
+    "cov": 3,
+    "parents": [
+      2013265926,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157214,
+    "label": "Chelmsford",
+    "gss": "E07000070",
+    "cov": 3,
+    "parents": [
+      2013265926,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157215,
+    "label": "Colchester",
+    "gss": "E07000071",
+    "cov": 3,
+    "parents": [
+      2013265926,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157216,
+    "label": "Epping Forest",
+    "gss": "E07000072",
+    "cov": 3,
+    "parents": [
+      2013265926,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157217,
+    "label": "Harlow",
+    "gss": "E07000073",
+    "cov": 3,
+    "parents": [
+      2013265926,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157218,
+    "label": "Maldon",
+    "gss": "E07000074",
+    "cov": 3,
+    "parents": [
+      2013265926,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157219,
+    "label": "Rochford",
+    "gss": "E07000075",
+    "cov": 3,
+    "parents": [
+      2013265926,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157220,
+    "label": "Tendring",
+    "gss": "E07000076",
+    "cov": 3,
+    "parents": [
+      2013265926,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157221,
+    "label": "Uttlesford",
+    "gss": "E07000077",
+    "cov": 3,
+    "parents": [
+      2013265926,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157222,
+    "label": "Broxbourne",
+    "gss": "E07000095",
+    "cov": 3,
+    "parents": [
+      2013265926,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157223,
+    "label": "Dacorum",
+    "gss": "E07000096",
+    "cov": 3,
+    "parents": [
+      2013265926,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157224,
+    "label": "East Hertfordshire",
+    "gss": "E07000242",
+    "cov": 3,
+    "parents": [
+      2013265926,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157225,
+    "label": "Hertsmere",
+    "gss": "E07000098",
+    "cov": 3,
+    "parents": [
+      2013265926,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157226,
+    "label": "North Hertfordshire",
+    "gss": "E07000099",
+    "cov": 3,
+    "parents": [
+      2013265926,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157227,
+    "label": "St Albans",
+    "gss": "E07000240",
+    "cov": 3,
+    "parents": [
+      2013265926,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157228,
+    "label": "Stevenage",
+    "gss": "E07000243",
+    "cov": 3,
+    "parents": [
+      2013265926,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157229,
+    "label": "Three Rivers",
+    "gss": "E07000102",
+    "cov": 3,
+    "parents": [
+      2013265926,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157230,
+    "label": "Watford",
+    "gss": "E07000103",
+    "cov": 3,
+    "parents": [
+      2013265926,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157231,
+    "label": "Welwyn Hatfield",
+    "gss": "E07000241",
+    "cov": 3,
+    "parents": [
+      2013265926,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157232,
+    "label": "Breckland",
+    "gss": "E07000143",
+    "cov": 3,
+    "parents": [
+      2013265926,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157233,
+    "label": "Broadland",
+    "gss": "E07000144",
+    "cov": 3,
+    "parents": [
+      2013265926,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157234,
+    "label": "Great Yarmouth",
+    "gss": "E07000145",
+    "cov": 3,
+    "parents": [
+      2013265926,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157235,
+    "label": "King`s Lynn and West Norfolk",
+    "gss": "E07000146",
+    "cov": 3,
+    "parents": [
+      2013265926,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157236,
+    "label": "North Norfolk",
+    "gss": "E07000147",
+    "cov": 3,
+    "parents": [
+      2013265926,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157237,
+    "label": "Norwich",
+    "gss": "E07000148",
+    "cov": 3,
+    "parents": [
+      2013265926,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157238,
+    "label": "South Norfolk",
+    "gss": "E07000149",
+    "cov": 3,
+    "parents": [
+      2013265926,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157239,
+    "label": "Babergh",
+    "gss": "E07000200",
+    "cov": 3,
+    "parents": [
+      2013265926,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157240,
+    "label": "Forest Heath",
+    "gss": "E07000201",
+    "cov": 3,
+    "parents": [
+      2013265926,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157241,
+    "label": "Ipswich",
+    "gss": "E07000202",
+    "cov": 3,
+    "parents": [
+      2013265926,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157242,
+    "label": "Mid Suffolk",
+    "gss": "E07000203",
+    "cov": 3,
+    "parents": [
+      2013265926,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157243,
+    "label": "St Edmundsbury",
+    "gss": "E07000204",
+    "cov": 3,
+    "parents": [
+      2013265926,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157244,
+    "label": "Suffolk Coastal",
+    "gss": "E07000205",
+    "cov": 3,
+    "parents": [
+      2013265926,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157245,
+    "label": "Waveney",
+    "gss": "E07000206",
+    "cov": 3,
+    "parents": [
+      2013265926,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157246,
+    "label": "Camden",
+    "gss": "E09000007",
+    "cov": 3,
+    "parents": [
+      2013265927,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157247,
+    "label": "City of London",
+    "gss": "E09000001",
+    "cov": 3,
+    "parents": [
+      2013265927,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157248,
+    "label": "Hackney",
+    "gss": "E09000012",
+    "cov": 3,
+    "parents": [
+      2013265927,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157249,
+    "label": "Hammersmith and Fulham",
+    "gss": "E09000013",
+    "cov": 3,
+    "parents": [
+      2013265927,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157250,
+    "label": "Haringey",
+    "gss": "E09000014",
+    "cov": 3,
+    "parents": [
+      2013265927,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157251,
+    "label": "Islington",
+    "gss": "E09000019",
+    "cov": 3,
+    "parents": [
+      2013265927,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157252,
+    "label": "Kensington and Chelsea",
+    "gss": "E09000020",
+    "cov": 3,
+    "parents": [
+      2013265927,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157253,
+    "label": "Lambeth",
+    "gss": "E09000022",
+    "cov": 3,
+    "parents": [
+      2013265927,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157254,
+    "label": "Lewisham",
+    "gss": "E09000023",
+    "cov": 3,
+    "parents": [
+      2013265927,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157255,
+    "label": "Newham",
+    "gss": "E09000025",
+    "cov": 3,
+    "parents": [
+      2013265927,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157256,
+    "label": "Southwark",
+    "gss": "E09000028",
+    "cov": 3,
+    "parents": [
+      2013265927,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157257,
+    "label": "Tower Hamlets",
+    "gss": "E09000030",
+    "cov": 3,
+    "parents": [
+      2013265927,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157258,
+    "label": "Wandsworth",
+    "gss": "E09000032",
+    "cov": 3,
+    "parents": [
+      2013265927,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157259,
+    "label": "Westminster",
+    "gss": "E09000033",
+    "cov": 3,
+    "parents": [
+      2013265927,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157260,
+    "label": "Barking and Dagenham",
+    "gss": "E09000002",
+    "cov": 3,
+    "parents": [
+      2013265927,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157261,
+    "label": "Barnet",
+    "gss": "E09000003",
+    "cov": 3,
+    "parents": [
+      2013265927,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157262,
+    "label": "Bexley",
+    "gss": "E09000004",
+    "cov": 3,
+    "parents": [
+      2013265927,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157263,
+    "label": "Brent",
+    "gss": "E09000005",
+    "cov": 3,
+    "parents": [
+      2013265927,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157264,
+    "label": "Bromley",
+    "gss": "E09000006",
+    "cov": 3,
+    "parents": [
+      2013265927,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157265,
+    "label": "Croydon",
+    "gss": "E09000008",
+    "cov": 3,
+    "parents": [
+      2013265927,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157266,
+    "label": "Ealing",
+    "gss": "E09000009",
+    "cov": 3,
+    "parents": [
+      2013265927,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157267,
+    "label": "Enfield",
+    "gss": "E09000010",
+    "cov": 3,
+    "parents": [
+      2013265927,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157268,
+    "label": "Greenwich",
+    "gss": "E09000011",
+    "cov": 3,
+    "parents": [
+      2013265927,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157269,
+    "label": "Harrow",
+    "gss": "E09000015",
+    "cov": 3,
+    "parents": [
+      2013265927,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157270,
+    "label": "Havering",
+    "gss": "E09000016",
+    "cov": 3,
+    "parents": [
+      2013265927,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157271,
+    "label": "Hillingdon",
+    "gss": "E09000017",
+    "cov": 3,
+    "parents": [
+      2013265927,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157272,
+    "label": "Hounslow",
+    "gss": "E09000018",
+    "cov": 3,
+    "parents": [
+      2013265927,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157273,
+    "label": "Kingston upon Thames",
+    "gss": "E09000021",
+    "cov": 3,
+    "parents": [
+      2013265927,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157274,
+    "label": "Merton",
+    "gss": "E09000024",
+    "cov": 3,
+    "parents": [
+      2013265927,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157275,
+    "label": "Redbridge",
+    "gss": "E09000026",
+    "cov": 3,
+    "parents": [
+      2013265927,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157276,
+    "label": "Richmond upon Thames",
+    "gss": "E09000027",
+    "cov": 3,
+    "parents": [
+      2013265927,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157277,
+    "label": "Sutton",
+    "gss": "E09000029",
+    "cov": 3,
+    "parents": [
+      2013265927,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157278,
+    "label": "Waltham Forest",
+    "gss": "E09000031",
+    "cov": 3,
+    "parents": [
+      2013265927,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157279,
+    "label": "Bracknell Forest",
+    "gss": "E06000036",
+    "cov": 3,
+    "parents": [
+      2013265928,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157280,
+    "label": "Brighton and Hove",
+    "gss": "E06000043",
+    "cov": 3,
+    "parents": [
+      2013265928,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157281,
+    "label": "Isle of Wight",
+    "gss": "E06000046",
+    "cov": 3,
+    "parents": [
+      2013265928,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157282,
+    "label": "Medway",
+    "gss": "E06000035",
+    "cov": 3,
+    "parents": [
+      2013265928,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157283,
+    "label": "Milton Keynes",
+    "gss": "E06000042",
+    "cov": 3,
+    "parents": [
+      2013265928,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157284,
+    "label": "Portsmouth",
+    "gss": "E06000044",
+    "cov": 3,
+    "parents": [
+      2013265928,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157285,
+    "label": "Reading",
+    "gss": "E06000038",
+    "cov": 3,
+    "parents": [
+      2013265928,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157286,
+    "label": "Slough",
+    "gss": "E06000039",
+    "cov": 3,
+    "parents": [
+      2013265928,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157287,
+    "label": "Southampton",
+    "gss": "E06000045",
+    "cov": 3,
+    "parents": [
+      2013265928,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157288,
+    "label": "West Berkshire",
+    "gss": "E06000037",
+    "cov": 3,
+    "parents": [
+      2013265928,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157289,
+    "label": "Windsor and Maidenhead",
+    "gss": "E06000040",
+    "cov": 3,
+    "parents": [
+      2013265928,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157290,
+    "label": "Wokingham",
+    "gss": "E06000041",
+    "cov": 3,
+    "parents": [
+      2013265928,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157291,
+    "label": "Aylesbury Vale",
+    "gss": "E07000004",
+    "cov": 3,
+    "parents": [
+      2013265928,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157292,
+    "label": "Chiltern",
+    "gss": "E07000005",
+    "cov": 3,
+    "parents": [
+      2013265928,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157293,
+    "label": "South Bucks",
+    "gss": "E07000006",
+    "cov": 3,
+    "parents": [
+      2013265928,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157294,
+    "label": "Wycombe",
+    "gss": "E07000007",
+    "cov": 3,
+    "parents": [
+      2013265928,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157295,
+    "label": "Eastbourne",
+    "gss": "E07000061",
+    "cov": 3,
+    "parents": [
+      2013265928,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157296,
+    "label": "Hastings",
+    "gss": "E07000062",
+    "cov": 3,
+    "parents": [
+      2013265928,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157297,
+    "label": "Lewes",
+    "gss": "E07000063",
+    "cov": 3,
+    "parents": [
+      2013265928,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157298,
+    "label": "Rother",
+    "gss": "E07000064",
+    "cov": 3,
+    "parents": [
+      2013265928,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157299,
+    "label": "Wealden",
+    "gss": "E07000065",
+    "cov": 3,
+    "parents": [
+      2013265928,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157300,
+    "label": "Basingstoke and Deane",
+    "gss": "E07000084",
+    "cov": 3,
+    "parents": [
+      2013265928,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157301,
+    "label": "East Hampshire",
+    "gss": "E07000085",
+    "cov": 3,
+    "parents": [
+      2013265928,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157302,
+    "label": "Eastleigh",
+    "gss": "E07000086",
+    "cov": 3,
+    "parents": [
+      2013265928,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157303,
+    "label": "Fareham",
+    "gss": "E07000087",
+    "cov": 3,
+    "parents": [
+      2013265928,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157304,
+    "label": "Gosport",
+    "gss": "E07000088",
+    "cov": 3,
+    "parents": [
+      2013265928,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157305,
+    "label": "Hart",
+    "gss": "E07000089",
+    "cov": 3,
+    "parents": [
+      2013265928,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157306,
+    "label": "Havant",
+    "gss": "E07000090",
+    "cov": 3,
+    "parents": [
+      2013265928,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157307,
+    "label": "New Forest",
+    "gss": "E07000091",
+    "cov": 3,
+    "parents": [
+      2013265928,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157308,
+    "label": "Rushmoor",
+    "gss": "E07000092",
+    "cov": 3,
+    "parents": [
+      2013265928,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157309,
+    "label": "Test Valley",
+    "gss": "E07000093",
+    "cov": 3,
+    "parents": [
+      2013265928,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157310,
+    "label": "Winchester",
+    "gss": "E07000094",
+    "cov": 3,
+    "parents": [
+      2013265928,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157311,
+    "label": "Ashford",
+    "gss": "E07000105",
+    "cov": 3,
+    "parents": [
+      2013265928,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157312,
+    "label": "Canterbury",
+    "gss": "E07000106",
+    "cov": 3,
+    "parents": [
+      2013265928,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157313,
+    "label": "Dartford",
+    "gss": "E07000107",
+    "cov": 3,
+    "parents": [
+      2013265928,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157314,
+    "label": "Dover",
+    "gss": "E07000108",
+    "cov": 3,
+    "parents": [
+      2013265928,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157315,
+    "label": "Gravesham",
+    "gss": "E07000109",
+    "cov": 3,
+    "parents": [
+      2013265928,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157316,
+    "label": "Maidstone",
+    "gss": "E07000110",
+    "cov": 3,
+    "parents": [
+      2013265928,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157317,
+    "label": "Sevenoaks",
+    "gss": "E07000111",
+    "cov": 3,
+    "parents": [
+      2013265928,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157318,
+    "label": "Shepway",
+    "gss": "E07000112",
+    "cov": 3,
+    "parents": [
+      2013265928,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157319,
+    "label": "Swale",
+    "gss": "E07000113",
+    "cov": 3,
+    "parents": [
+      2013265928,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157320,
+    "label": "Thanet",
+    "gss": "E07000114",
+    "cov": 3,
+    "parents": [
+      2013265928,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157321,
+    "label": "Tonbridge and Malling",
+    "gss": "E07000115",
+    "cov": 3,
+    "parents": [
+      2013265928,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157322,
+    "label": "Tunbridge Wells",
+    "gss": "E07000116",
+    "cov": 3,
+    "parents": [
+      2013265928,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157323,
+    "label": "Cherwell",
+    "gss": "E07000177",
+    "cov": 3,
+    "parents": [
+      2013265928,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157324,
+    "label": "Oxford",
+    "gss": "E07000178",
+    "cov": 3,
+    "parents": [
+      2013265928,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157325,
+    "label": "South Oxfordshire",
+    "gss": "E07000179",
+    "cov": 3,
+    "parents": [
+      2013265928,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157326,
+    "label": "Vale of White Horse",
+    "gss": "E07000180",
+    "cov": 3,
+    "parents": [
+      2013265928,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157327,
+    "label": "West Oxfordshire",
+    "gss": "E07000181",
+    "cov": 3,
+    "parents": [
+      2013265928,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157328,
+    "label": "Elmbridge",
+    "gss": "E07000207",
+    "cov": 3,
+    "parents": [
+      2013265928,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157329,
+    "label": "Epsom and Ewell",
+    "gss": "E07000208",
+    "cov": 3,
+    "parents": [
+      2013265928,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157330,
+    "label": "Guildford",
+    "gss": "E07000209",
+    "cov": 3,
+    "parents": [
+      2013265928,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157331,
+    "label": "Mole Valley",
+    "gss": "E07000210",
+    "cov": 3,
+    "parents": [
+      2013265928,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157332,
+    "label": "Reigate and Banstead",
+    "gss": "E07000211",
+    "cov": 3,
+    "parents": [
+      2013265928,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157333,
+    "label": "Runnymede",
+    "gss": "E07000212",
+    "cov": 3,
+    "parents": [
+      2013265928,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157334,
+    "label": "Spelthorne",
+    "gss": "E07000213",
+    "cov": 3,
+    "parents": [
+      2013265928,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157335,
+    "label": "Surrey Heath",
+    "gss": "E07000214",
+    "cov": 3,
+    "parents": [
+      2013265928,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157336,
+    "label": "Tandridge",
+    "gss": "E07000215",
+    "cov": 3,
+    "parents": [
+      2013265928,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157337,
+    "label": "Waverley",
+    "gss": "E07000216",
+    "cov": 3,
+    "parents": [
+      2013265928,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157338,
+    "label": "Woking",
+    "gss": "E07000217",
+    "cov": 3,
+    "parents": [
+      2013265928,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157339,
+    "label": "Adur",
+    "gss": "E07000223",
+    "cov": 3,
+    "parents": [
+      2013265928,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157340,
+    "label": "Arun",
+    "gss": "E07000224",
+    "cov": 3,
+    "parents": [
+      2013265928,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157341,
+    "label": "Chichester",
+    "gss": "E07000225",
+    "cov": 3,
+    "parents": [
+      2013265928,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157342,
+    "label": "Crawley",
+    "gss": "E07000226",
+    "cov": 3,
+    "parents": [
+      2013265928,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157343,
+    "label": "Horsham",
+    "gss": "E07000227",
+    "cov": 3,
+    "parents": [
+      2013265928,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157344,
+    "label": "Mid Sussex",
+    "gss": "E07000228",
+    "cov": 3,
+    "parents": [
+      2013265928,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157345,
+    "label": "Worthing",
+    "gss": "E07000229",
+    "cov": 3,
+    "parents": [
+      2013265928,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157346,
+    "label": "Bath and North East Somerset",
+    "gss": "E06000022",
+    "cov": 3,
+    "parents": [
+      2013265929,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157347,
+    "label": "Bournemouth",
+    "gss": "E06000028",
+    "cov": 3,
+    "parents": [
+      2013265929,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157348,
+    "label": "Bristol, City of",
+    "gss": "E06000023",
+    "cov": 3,
+    "parents": [
+      2013265929,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157349,
+    "label": "Cornwall",
+    "gss": "E06000052",
+    "cov": 3,
+    "parents": [
+      2013265929,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157350,
+    "label": "Isles of Scilly",
+    "gss": "E06000053",
+    "cov": 3,
+    "parents": [
+      2013265929,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157351,
+    "label": "North Somerset",
+    "gss": "E06000024",
+    "cov": 3,
+    "parents": [
+      2013265929,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157352,
+    "label": "Plymouth",
+    "gss": "E06000026",
+    "cov": 3,
+    "parents": [
+      2013265929,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157353,
+    "label": "Poole",
+    "gss": "E06000029",
+    "cov": 3,
+    "parents": [
+      2013265929,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157354,
+    "label": "South Gloucestershire",
+    "gss": "E06000025",
+    "cov": 3,
+    "parents": [
+      2013265929,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157355,
+    "label": "Swindon",
+    "gss": "E06000030",
+    "cov": 3,
+    "parents": [
+      2013265929,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157356,
+    "label": "Torbay",
+    "gss": "E06000027",
+    "cov": 3,
+    "parents": [
+      2013265929,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157357,
+    "label": "Wiltshire",
+    "gss": "E06000054",
+    "cov": 3,
+    "parents": [
+      2013265929,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157358,
+    "label": "East Devon",
+    "gss": "E07000040",
+    "cov": 3,
+    "parents": [
+      2013265929,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157359,
+    "label": "Exeter",
+    "gss": "E07000041",
+    "cov": 3,
+    "parents": [
+      2013265929,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157360,
+    "label": "Mid Devon",
+    "gss": "E07000042",
+    "cov": 3,
+    "parents": [
+      2013265929,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157361,
+    "label": "North Devon",
+    "gss": "E07000043",
+    "cov": 3,
+    "parents": [
+      2013265929,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157362,
+    "label": "South Hams",
+    "gss": "E07000044",
+    "cov": 3,
+    "parents": [
+      2013265929,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157363,
+    "label": "Teignbridge",
+    "gss": "E07000045",
+    "cov": 3,
+    "parents": [
+      2013265929,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157364,
+    "label": "Torridge",
+    "gss": "E07000046",
+    "cov": 3,
+    "parents": [
+      2013265929,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157365,
+    "label": "West Devon",
+    "gss": "E07000047",
+    "cov": 3,
+    "parents": [
+      2013265929,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157366,
+    "label": "Christchurch",
+    "gss": "E07000048",
+    "cov": 3,
+    "parents": [
+      2013265929,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157367,
+    "label": "East Dorset",
+    "gss": "E07000049",
+    "cov": 3,
+    "parents": [
+      2013265929,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157368,
+    "label": "North Dorset",
+    "gss": "E07000050",
+    "cov": 3,
+    "parents": [
+      2013265929,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157369,
+    "label": "Purbeck",
+    "gss": "E07000051",
+    "cov": 3,
+    "parents": [
+      2013265929,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157370,
+    "label": "West Dorset",
+    "gss": "E07000052",
+    "cov": 3,
+    "parents": [
+      2013265929,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157371,
+    "label": "Weymouth and Portland",
+    "gss": "E07000053",
+    "cov": 3,
+    "parents": [
+      2013265929,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157372,
+    "label": "Cheltenham",
+    "gss": "E07000078",
+    "cov": 3,
+    "parents": [
+      2013265929,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157373,
+    "label": "Cotswold",
+    "gss": "E07000079",
+    "cov": 3,
+    "parents": [
+      2013265929,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157374,
+    "label": "Forest of Dean",
+    "gss": "E07000080",
+    "cov": 3,
+    "parents": [
+      2013265929,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157375,
+    "label": "Gloucester",
+    "gss": "E07000081",
+    "cov": 3,
+    "parents": [
+      2013265929,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157376,
+    "label": "Stroud",
+    "gss": "E07000082",
+    "cov": 3,
+    "parents": [
+      2013265929,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157377,
+    "label": "Tewkesbury",
+    "gss": "E07000083",
+    "cov": 3,
+    "parents": [
+      2013265929,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157378,
+    "label": "Mendip",
+    "gss": "E07000187",
+    "cov": 3,
+    "parents": [
+      2013265929,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157379,
+    "label": "Sedgemoor",
+    "gss": "E07000188",
+    "cov": 3,
+    "parents": [
+      2013265929,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157380,
+    "label": "South Somerset",
+    "gss": "E07000189",
+    "cov": 3,
+    "parents": [
+      2013265929,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157381,
+    "label": "Taunton Deane",
+    "gss": "E07000190",
+    "cov": 3,
+    "parents": [
+      2013265929,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157382,
+    "label": "West Somerset",
+    "gss": "E07000191",
+    "cov": 3,
+    "parents": [
+      2013265929,
+      2092957699
+    ]
+  },
+  {
+    "value": 1946157383,
+    "label": "Anglesey",
+    "gss": "W06000001",
+    "cov": 4,
+    "parents": [
+      2013265930,
+      2092957700
+    ]
+  },
+  {
+    "value": 1946157384,
+    "label": "Gwynedd",
+    "gss": "W06000002",
+    "cov": 4,
+    "parents": [
+      2013265930,
+      2092957700
+    ]
+  },
+  {
+    "value": 1946157385,
+    "label": "Conwy",
+    "gss": "W06000003",
+    "cov": 4,
+    "parents": [
+      2013265930,
+      2092957700
+    ]
+  },
+  {
+    "value": 1946157386,
+    "label": "Denbighshire",
+    "gss": "W06000004",
+    "cov": 4,
+    "parents": [
+      2013265930,
+      2092957700
+    ]
+  },
+  {
+    "value": 1946157387,
+    "label": "Flintshire",
+    "gss": "W06000005",
+    "cov": 4,
+    "parents": [
+      2013265930,
+      2092957700
+    ]
+  },
+  {
+    "value": 1946157388,
+    "label": "Wrexham",
+    "gss": "W06000006",
+    "cov": 4,
+    "parents": [
+      2013265930,
+      2092957700
+    ]
+  },
+  {
+    "value": 1946157389,
+    "label": "Powys",
+    "gss": "W06000023",
+    "cov": 4,
+    "parents": [
+      2013265930,
+      2092957700
+    ]
+  },
+  {
+    "value": 1946157390,
+    "label": "Ceredigion",
+    "gss": "W06000008",
+    "cov": 4,
+    "parents": [
+      2013265930,
+      2092957700
+    ]
+  },
+  {
+    "value": 1946157391,
+    "label": "Pembrokeshire",
+    "gss": "W06000009",
+    "cov": 4,
+    "parents": [
+      2013265930,
+      2092957700
+    ]
+  },
+  {
+    "value": 1946157392,
+    "label": "Carmarthenshire",
+    "gss": "W06000010",
+    "cov": 4,
+    "parents": [
+      2013265930,
+      2092957700
+    ]
+  },
+  {
+    "value": 1946157393,
+    "label": "Swansea",
+    "gss": "W06000011",
+    "cov": 4,
+    "parents": [
+      2013265930,
+      2092957700
+    ]
+  },
+  {
+    "value": 1946157394,
+    "label": "Neath Port Talbot",
+    "gss": "W06000012",
+    "cov": 4,
+    "parents": [
+      2013265930,
+      2092957700
+    ]
+  },
+  {
+    "value": 1946157395,
+    "label": "Bridgend",
+    "gss": "W06000013",
+    "cov": 4,
+    "parents": [
+      2013265930,
+      2092957700
+    ]
+  },
+  {
+    "value": 1946157396,
+    "label": "The Vale of Glamorgan",
+    "gss": "W06000014",
+    "cov": 4,
+    "parents": [
+      2013265930,
+      2092957700
+    ]
+  },
+  {
+    "value": 1946157397,
+    "label": "Cardiff",
+    "gss": "W06000015",
+    "cov": 4,
+    "parents": [
+      2013265930,
+      2092957700
+    ]
+  },
+  {
+    "value": 1946157398,
+    "label": "Rhondda, Cynon, Taff",
+    "gss": "W06000016",
+    "cov": 4,
+    "parents": [
+      2013265930,
+      2092957700
+    ]
+  },
+  {
+    "value": 1946157399,
+    "label": "Merthyr Tydfil",
+    "gss": "W06000024",
+    "cov": 4,
+    "parents": [
+      2013265930,
+      2092957700
+    ]
+  },
+  {
+    "value": 1946157400,
+    "label": "Caerphilly",
+    "gss": "W06000018",
+    "cov": 4,
+    "parents": [
+      2013265930,
+      2092957700
+    ]
+  },
+  {
+    "value": 1946157401,
+    "label": "Blaenau Gwent",
+    "gss": "W06000019",
+    "cov": 4,
+    "parents": [
+      2013265930,
+      2092957700
+    ]
+  },
+  {
+    "value": 1946157402,
+    "label": "Torfaen",
+    "gss": "W06000020",
+    "cov": 4,
+    "parents": [
+      2013265930,
+      2092957700
+    ]
+  },
+  {
+    "value": 1946157403,
+    "label": "Monmouthshire",
+    "gss": "W06000021",
+    "cov": 4,
+    "parents": [
+      2013265930,
+      2092957700
+    ]
+  },
+  {
+    "value": 1946157404,
+    "label": "Newport",
+    "gss": "W06000022",
+    "cov": 4,
+    "parents": [
+      2013265930,
+      2092957700
+    ]
+  },
+  {
+    "value": 1946157405,
+    "label": "Aberdeen City",
+    "gss": "S12000033",
+    "cov": 5,
+    "parents": [
+      2013265931,
+      2092957701
+    ]
+  },
+  {
+    "value": 1946157406,
+    "label": "Aberdeenshire",
+    "gss": "S12000034",
+    "cov": 5,
+    "parents": [
+      2013265931,
+      2092957701
+    ]
+  },
+  {
+    "value": 1946157407,
+    "label": "Angus",
+    "gss": "S12000041",
+    "cov": 5,
+    "parents": [
+      2013265931,
+      2092957701
+    ]
+  },
+  {
+    "value": 1946157408,
+    "label": "Argyll and Bute",
+    "gss": "S12000035",
+    "cov": 5,
+    "parents": [
+      2013265931,
+      2092957701
+    ]
+  },
+  {
+    "value": 1946157409,
+    "label": "Clackmannanshire",
+    "gss": "S12000005",
+    "cov": 5,
+    "parents": [
+      2013265931,
+      2092957701
+    ]
+  },
+  {
+    "value": 1946157410,
+    "label": "Dumfries and Galloway",
+    "gss": "S12000006",
+    "cov": 5,
+    "parents": [
+      2013265931,
+      2092957701
+    ]
+  },
+  {
+    "value": 1946157411,
+    "label": "Dundee City",
+    "gss": "S12000042",
+    "cov": 5,
+    "parents": [
+      2013265931,
+      2092957701
+    ]
+  },
+  {
+    "value": 1946157412,
+    "label": "East Ayrshire",
+    "gss": "S12000008",
+    "cov": 5,
+    "parents": [
+      2013265931,
+      2092957701
+    ]
+  },
+  {
+    "value": 1946157413,
+    "label": "East Dunbartonshire",
+    "gss": "S12000045",
+    "cov": 5,
+    "parents": [
+      2013265931,
+      2092957701
+    ]
+  },
+  {
+    "value": 1946157414,
+    "label": "East Lothian",
+    "gss": "S12000010",
+    "cov": 5,
+    "parents": [
+      2013265931,
+      2092957701
+    ]
+  },
+  {
+    "value": 1946157415,
+    "label": "East Renfrewshire",
+    "gss": "S12000011",
+    "cov": 5,
+    "parents": [
+      2013265931,
+      2092957701
+    ]
+  },
+  {
+    "value": 1946157416,
+    "label": "Edinburgh, City of",
+    "gss": "S12000036",
+    "cov": 5,
+    "parents": [
+      2013265931,
+      2092957701
+    ]
+  },
+  {
+    "value": 1946157417,
+    "label": "Eilean Siar",
+    "gss": "S12000013",
+    "cov": 5,
+    "parents": [
+      2013265931,
+      2092957701
+    ]
+  },
+  {
+    "value": 1946157418,
+    "label": "Falkirk",
+    "gss": "S12000014",
+    "cov": 5,
+    "parents": [
+      2013265931,
+      2092957701
+    ]
+  },
+  {
+    "value": 1946157419,
+    "label": "Fife",
+    "gss": "S12000015",
+    "cov": 5,
+    "parents": [
+      2013265931,
+      2092957701
+    ]
+  },
+  {
+    "value": 1946157420,
+    "label": "Glasgow City",
+    "gss": "S12000046",
+    "cov": 5,
+    "parents": [
+      2013265931,
+      2092957701
+    ]
+  },
+  {
+    "value": 1946157421,
+    "label": "Highland",
+    "gss": "S12000017",
+    "cov": 5,
+    "parents": [
+      2013265931,
+      2092957701
+    ]
+  },
+  {
+    "value": 1946157422,
+    "label": "Inverclyde",
+    "gss": "S12000018",
+    "cov": 5,
+    "parents": [
+      2013265931,
+      2092957701
+    ]
+  },
+  {
+    "value": 1946157423,
+    "label": "Midlothian",
+    "gss": "S12000019",
+    "cov": 5,
+    "parents": [
+      2013265931,
+      2092957701
+    ]
+  },
+  {
+    "value": 1946157424,
+    "label": "Moray",
+    "gss": "S12000020",
+    "cov": 5,
+    "parents": [
+      2013265931,
+      2092957701
+    ]
+  },
+  {
+    "value": 1946157425,
+    "label": "North Ayrshire",
+    "gss": "S12000021",
+    "cov": 5,
+    "parents": [
+      2013265931,
+      2092957701
+    ]
+  },
+  {
+    "value": 1946157426,
+    "label": "North Lanarkshire",
+    "gss": "S12000044",
+    "cov": 5,
+    "parents": [
+      2013265931,
+      2092957701
+    ]
+  },
+  {
+    "value": 1946157427,
+    "label": "Orkney Islands",
+    "gss": "S12000023",
+    "cov": 5,
+    "parents": [
+      2013265931,
+      2092957701
+    ]
+  },
+  {
+    "value": 1946157428,
+    "label": "Perth and Kinross",
+    "gss": "S12000024",
+    "cov": 5,
+    "parents": [
+      2013265931,
+      2092957701
+    ]
+  },
+  {
+    "value": 1946157429,
+    "label": "Renfrewshire",
+    "gss": "S12000038",
+    "cov": 5,
+    "parents": [
+      2013265931,
+      2092957701
+    ]
+  },
+  {
+    "value": 1946157430,
+    "label": "Scottish Borders",
+    "gss": "S12000026",
+    "cov": 5,
+    "parents": [
+      2013265931,
+      2092957701
+    ]
+  },
+  {
+    "value": 1946157431,
+    "label": "Shetland Islands",
+    "gss": "S12000027",
+    "cov": 5,
+    "parents": [
+      2013265931,
+      2092957701
+    ]
+  },
+  {
+    "value": 1946157432,
+    "label": "South Ayrshire",
+    "gss": "S12000028",
+    "cov": 5,
+    "parents": [
+      2013265931,
+      2092957701
+    ]
+  },
+  {
+    "value": 1946157433,
+    "label": "South Lanarkshire",
+    "gss": "S12000029",
+    "cov": 5,
+    "parents": [
+      2013265931,
+      2092957701
+    ]
+  },
+  {
+    "value": 1946157434,
+    "label": "Stirling",
+    "gss": "S12000030",
+    "cov": 5,
+    "parents": [
+      2013265931,
+      2092957701
+    ]
+  },
+  {
+    "value": 1946157435,
+    "label": "West Dunbartonshire",
+    "gss": "S12000039",
+    "cov": 5,
+    "parents": [
+      2013265931,
+      2092957701
+    ]
+  },
+  {
+    "value": 1946157436,
+    "label": "West Lothian",
+    "gss": "S12000040",
+    "cov": 5,
+    "parents": [
+      2013265931,
+      2092957701
+    ]
+  },
+  {
+    "value": 1946157437,
+    "label": "Antrim",
+    "gss": "95AA",
+    "cov": 6,
+    "parents": [
+      2013265932,
+      2092957702
+    ]
+  },
+  {
+    "value": 1946157438,
+    "label": "Ards",
+    "gss": "95BB",
+    "cov": 6,
+    "parents": [
+      2013265932,
+      2092957702
+    ]
+  },
+  {
+    "value": 1946157439,
+    "label": "Armagh",
+    "gss": "95CC",
+    "cov": 6,
+    "parents": [
+      2013265932,
+      2092957702
+    ]
+  },
+  {
+    "value": 1946157440,
+    "label": "Ballymena",
+    "gss": "95DD",
+    "cov": 6,
+    "parents": [
+      2013265932,
+      2092957702
+    ]
+  },
+  {
+    "value": 1946157441,
+    "label": "Ballymoney",
+    "gss": "95EE",
+    "cov": 6,
+    "parents": [
+      2013265932,
+      2092957702
+    ]
+  },
+  {
+    "value": 1946157442,
+    "label": "Banbridge",
+    "gss": "95FF",
+    "cov": 6,
+    "parents": [
+      2013265932,
+      2092957702
+    ]
+  },
+  {
+    "value": 1946157443,
+    "label": "Belfast",
+    "gss": "95GG",
+    "cov": 6,
+    "parents": [
+      2013265932,
+      2092957702
+    ]
+  },
+  {
+    "value": 1946157444,
+    "label": "Carrickfergus",
+    "gss": "95HH",
+    "cov": 6,
+    "parents": [
+      2013265932,
+      2092957702
+    ]
+  },
+  {
+    "value": 1946157445,
+    "label": "Castlereagh",
+    "gss": "95II",
+    "cov": 6,
+    "parents": [
+      2013265932,
+      2092957702
+    ]
+  },
+  {
+    "value": 1946157446,
+    "label": "Coleraine",
+    "gss": "95JJ",
+    "cov": 6,
+    "parents": [
+      2013265932,
+      2092957702
+    ]
+  },
+  {
+    "value": 1946157447,
+    "label": "Cookstown",
+    "gss": "95KK",
+    "cov": 6,
+    "parents": [
+      2013265932,
+      2092957702
+    ]
+  },
+  {
+    "value": 1946157448,
+    "label": "Craigavon",
+    "gss": "95LL",
+    "cov": 6,
+    "parents": [
+      2013265932,
+      2092957702
+    ]
+  },
+  {
+    "value": 1946157449,
+    "label": "Derry",
+    "gss": "95MM",
+    "cov": 6,
+    "parents": [
+      2013265932,
+      2092957702
+    ]
+  },
+  {
+    "value": 1946157450,
+    "label": "Down",
+    "gss": "95NN",
+    "cov": 6,
+    "parents": [
+      2013265932,
+      2092957702
+    ]
+  },
+  {
+    "value": 1946157451,
+    "label": "Dungannon",
+    "gss": "95OO",
+    "cov": 6,
+    "parents": [
+      2013265932,
+      2092957702
+    ]
+  },
+  {
+    "value": 1946157452,
+    "label": "Fermanagh",
+    "gss": "95PP",
+    "cov": 6,
+    "parents": [
+      2013265932,
+      2092957702
+    ]
+  },
+  {
+    "value": 1946157453,
+    "label": "Larne",
+    "gss": "95QQ",
+    "cov": 6,
+    "parents": [
+      2013265932,
+      2092957702
+    ]
+  },
+  {
+    "value": 1946157454,
+    "label": "Limavady",
+    "gss": "95RR",
+    "cov": 6,
+    "parents": [
+      2013265932,
+      2092957702
+    ]
+  },
+  {
+    "value": 1946157455,
+    "label": "Lisburn",
+    "gss": "95SS",
+    "cov": 6,
+    "parents": [
+      2013265932,
+      2092957702
+    ]
+  },
+  {
+    "value": 1946157456,
+    "label": "Magherafelt",
+    "gss": "95TT",
+    "cov": 6,
+    "parents": [
+      2013265932,
+      2092957702
+    ]
+  },
+  {
+    "value": 1946157457,
+    "label": "Moyle",
+    "gss": "95UU",
+    "cov": 6,
+    "parents": [
+      2013265932,
+      2092957702
+    ]
+  },
+  {
+    "value": 1946157458,
+    "label": "Newry and Mourne",
+    "gss": "95VV",
+    "cov": 6,
+    "parents": [
+      2013265932,
+      2092957702
+    ]
+  },
+  {
+    "value": 1946157459,
+    "label": "Newtownabbey",
+    "gss": "95WW",
+    "cov": 6,
+    "parents": [
+      2013265932,
+      2092957702
+    ]
+  },
+  {
+    "value": 1946157460,
+    "label": "North Down",
+    "gss": "95XX",
+    "cov": 6,
+    "parents": [
+      2013265932,
+      2092957702
+    ]
+  },
+  {
+    "value": 1946157461,
+    "label": "Omagh",
+    "gss": "95YY",
+    "cov": 6,
+    "parents": [
+      2013265932,
+      2092957702
+    ]
+  },
+  {
+    "value": 1946157462,
+    "label": "Strabane",
+    "gss": "95ZZ",
+    "cov": 6,
+    "parents": [
+      2013265932,
+      2092957702
+    ]
+  },
+  {
+    "value": 1941962882,
+    "label": "Buckinghamshire",
+    "gss": "E10000002",
+    "cov": 3,
+    "parents": [
+      2013265928,
+      2092957699
+    ]
+  },
+  {
+    "value": 1941962832,
+    "label": "Cambridgeshire",
+    "gss": "E10000003",
+    "cov": 3,
+    "parents": [
+      2013265926,
+      2092957699
+    ]
+  },
+  {
+    "value": 1941962771,
+    "label": "Cumbria",
+    "gss": "E10000006",
+    "cov": 3,
+    "parents": [
+      2013265922,
+      2092957699
+    ]
+  },
+  {
+    "value": 1941962807,
+    "label": "Derbyshire",
+    "gss": "E10000007",
+    "cov": 3,
+    "parents": [
+      2013265924,
+      2092957699
+    ]
+  },
+  {
+    "value": 1941962901,
+    "label": "Devon",
+    "gss": "E10000008",
+    "cov": 3,
+    "parents": [
+      2013265929,
+      2092957699
+    ]
+  },
+  {
+    "value": 1941962902,
+    "label": "Dorset",
+    "gss": "E10000009",
+    "cov": 3,
+    "parents": [
+      2013265929,
+      2092957699
+    ]
+  },
+  {
+    "value": 1941962883,
+    "label": "East Sussex",
+    "gss": "E10000011",
+    "cov": 3,
+    "parents": [
+      2013265928,
+      2092957699
+    ]
+  },
+  {
+    "value": 1941962833,
+    "label": "Essex",
+    "gss": "E10000012",
+    "cov": 3,
+    "parents": [
+      2013265926,
+      2092957699
+    ]
+  },
+  {
+    "value": 1941962897,
+    "label": "South Gloucestershire",
+    "cov": 3,
+    "gss": "E06000025",
+    "parents": [
+      2013265929,
+      2092957699
+    ]
+  },
+  {
+    "value": 1941962884,
+    "label": "Hampshire",
+    "cov": 3,
+    "gss": "E10000014",
+    "parents": [
+      2013265928,
+      2092957699
+    ]
+  },
+  {
+    "value": 1941962834,
+    "label": "Hertfordshire",
+    "cov": 3,
+    "gss": "E10000015",
+    "parents": [
+      2013265926,
+      2092957699
+    ]
+  },
+  {
+    "value": 1941962885,
+    "label": "Kent",
+    "cov": 3,
+    "gss": "E10000016",
+    "parents": [
+      2013265928,
+      2092957699
+    ]
+  },
+  {
+    "value": 1941962782,
+    "label": "Lancashire",
+    "cov": 3,
+    "gss": "E10000017",
+    "parents": [
+      2013265922,
+      2092957699
+    ]
+  },
+  {
+    "value": 1941962808,
+    "label": "Leicestershire",
+    "cov": 3,
+    "gss": "E10000018",
+    "parents": [
+      2013265924,
+      2092957699
+    ]
+  },
+  {
+    "value": 1941962809,
+    "label": "Lincolnshire",
+    "cov": 3,
+    "gss": "E10000019",
+    "parents": [
+      2013265924,
+      2092957699
+    ]
+  },
+  {
+    "value": 1941962835,
+    "label": "Norfolk",
+    "cov": 3,
+    "gss": "E10000020",
+    "parents": [
+      2013265926,
+      2092957699
+    ]
+  },
+  {
+    "value": 1941962810,
+    "label": "Northamptonshire",
+    "cov": 3,
+    "gss": "E10000021",
+    "parents": [
+      2013265924,
+      2092957699
+    ]
+  },
+  {
+    "value": 1941962793,
+    "label": "North Yorkshire",
+    "cov": 3,
+    "gss": "E10000023",
+    "parents": [
+      2013265923,
+      2092957699
+    ]
+  },
+  {
+    "value": 1941962811,
+    "label": "Nottinghamshire",
+    "cov": 3,
+    "gss": "E10000024",
+    "parents": [
+      2013265924,
+      2092957699
+    ]
+  },
+  {
+    "value": 1941962886,
+    "label": "Oxfordshire",
+    "cov": 3,
+    "gss": "E10000025",
+    "parents": [
+      2013265928,
+      2092957699
+    ]
+  },
+  {
+    "value": 1941962904,
+    "label": "Somerset",
+    "cov": 3,
+    "gss": "E10000027",
+    "parents": [
+      2013265929,
+      2092957699
+    ]
+  },
+  {
+    "value": 1941962816,
+    "label": "Staffordshire",
+    "cov": 3,
+    "gss": "E10000028",
+    "parents": [
+      2013265925,
+      2092957699
+    ]
+  },
+  {
+    "value": 1941962836,
+    "label": "Suffolk",
+    "cov": 3,
+    "gss": "E10000029",
+    "parents": [
+      2013265926,
+      2092957699
+    ]
+  },
+  {
+    "value": 1941962887,
+    "label": "Surrey",
+    "cov": 3,
+    "gss": "E10000030",
+    "parents": [
+      2013265928,
+      2092957699
+    ]
+  },
+  {
+    "value": 1941962817,
+    "label": "Warwickshire",
+    "cov": 3,
+    "gss": "E10000031",
+    "parents": [
+      2013265925,
+      2092957699
+    ]
+  },
+  {
+    "value": 1941962888,
+    "label": "West Sussex",
+    "cov": 3,
+    "gss": "E10000032",
+    "parents": [
+      2013265928,
+      2092957699
+    ]
+  },
+  {
+    "value": 1941962825,
+    "label": "Worcestershire",
+    "cov": 3,
+    "gss": "E10000034",
+    "parents": [
+      2013265925,
+      2092957699
+    ]
+  }
+]

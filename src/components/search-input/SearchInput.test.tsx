@@ -42,7 +42,7 @@ describe('SearchInput component', () => {
 
     // Assert
     expect(searchAddressServiceSpy).toHaveBeenCalledWith('some address');
-    expect(demographicServiceSpy).toHaveBeenCalledWith(addressDetails.censusLocationIndex);
+    expect(demographicServiceSpy).toHaveBeenCalledWith(addressDetails.censusLocationIndex, addressDetails.type464LocationIndex);
     expect(addressDetailsbuilderSpy).toHaveBeenCalledWith(addressDetails, demographicData);
 
     expect(mockSetAddress).toHaveBeenCalledWith(addressDetailsWithDemographicData);
