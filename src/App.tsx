@@ -21,6 +21,11 @@ function App() {
   const demographicData1 = address1 && address1.demographicData;
   const demographicData2 = address2 && address2.demographicData;
 
+  useEffect(() => {
+    console.log(demographicData1);
+    console.log(demographicData2);
+  }, [demographicData1, demographicData2])
+
   const barCharts = (demographicData1 || demographicData2) && <>
     <div className='line-chart-container'>
       <BarChart 

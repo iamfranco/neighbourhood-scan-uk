@@ -13,35 +13,28 @@ export interface NomisAgeResponse {
   }
 }
 
-export const makeRandomNomisAgeResponse = (): NomisAgeResponse => ({
-  error: Math.random().toString(),
-  updated: Math.random().toString(),
-  value: [
-    Math.random(),
-    Math.random(),
-    Math.random(),
-    Math.random(),
-    Math.random()
-  ],
-  dimension: {
-    c2021_age_102: {
-      label: Math.random().toString(),
-      category: {
-        index: {
-          "1": 0,
-          "2": 1,
-          "3": 2,
-          "4": 3,
-          "5": 4
-        },
-        label: {
-          "1": "Aged under 1 year",
-          "2": "Aged 1 year",
-          "3": "Aged 2 years",
-          "4": "Aged 3 years",
-          "5": "Aged 4 years"
+export const makeRandomNomisAgeResponse = (): NomisAgeResponse => {
+  var indices: {[id: string]: number} = {};
+  var labels: {[id: string]: string} = {};
+  for (var i=0; i<101; i++) {
+    indices[i+1] = 0;
+    labels[i+1] = `Aged ${i} year`;
+  }
+  labels[1] = "Aged under 1 year";
+  labels[2] = "Aged 1 year";
+  
+  return {
+    error: Math.random().toString(),
+    updated: Math.random().toString(),
+    value: [...Array(101).keys()].map(() => Math.random()),
+    dimension: {
+      c2021_age_102: {
+        label: Math.random().toString(),
+        category: {
+          index: indices,
+          label: labels
         }
       }
     }
   }
-})
+}

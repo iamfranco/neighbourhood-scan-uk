@@ -1,5 +1,6 @@
 import { BarElement, CategoryScale, Chart as ChartJS, Legend, LinearScale, Title, Tooltip } from 'chart.js';
 import { Bar } from 'react-chartjs-2';
+import './BarChart.scss';
 
 ChartJS.register(
   CategoryScale,
@@ -42,11 +43,28 @@ const BarChart = ({labels, v1, v1Label, v2, v2Label, isHorizontal = false}: Prop
     <Bar options={{
       maintainAspectRatio: false,
       indexAxis: isHorizontal ? 'y' : 'x',
-    }} 
+      scales: {
+        y: {
+          ticks: {
+            mirror: true,
+            z: 10,
+            color: 'black',
+            showLabelBackdrop: true
+          }
+        }
+      },
+      plugins: {
+        legend: {
+          position: 'top',
+          align: 'end'
+        }
+      }
+    }}
     data={{
       labels: labels,
       datasets: datasets
-    }} />
+    }}
+    className='bar-chart'/>
   )
 }
 

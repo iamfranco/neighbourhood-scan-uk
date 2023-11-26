@@ -1,4 +1,5 @@
 import { nomisClient } from "../../clients/nomis/nomisClient"
+import { nomisResponseService } from "../nomis/nomisResponseService";
 import { DemographicData } from "./models/DemographicData";
 
 const getDemographicData = async (geographyCode: number): Promise<DemographicData | null> => {
@@ -10,6 +11,8 @@ const getDemographicData = async (geographyCode: number): Promise<DemographicDat
 
   if (ethnicityResponse == null || ageResponse == null) return null;
 
+  const simplifiedAgeResponse = nomisResponseService.simplifyAgeData(ageResponse);
+
   const demographicData: DemographicData = {
     ethnicity: {
       values: ethnicityResponse.value,
@@ -17,9 +20,9 @@ const getDemographicData = async (geographyCode: number): Promise<DemographicDat
       total: ethnicityResponse.value.reduce((x, y) => x + y)
     },
     age: {
-      values: ageResponse.value,
-      labels: Object.values(ageResponse.dimension.c2021_age_102.category.label),
-      total: ageResponse.value.reduce((x, y) => x + y)
+      values: simplifiedAgeResponse.value,
+      labels: simplifiedAgeResponse.label,
+      total: simplifiedAgeResponse.value.reduce((x, y) => x + y)
     }
   }
 
