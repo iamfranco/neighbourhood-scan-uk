@@ -2,14 +2,15 @@ import { nomisClient } from "../../clients/nomis/nomisClient"
 import { nomisResponseService } from "../nomis/nomisResponseService";
 import { DemographicData } from "./models/DemographicData";
 
-const getDemographicData = async (geographyCode: number): Promise<DemographicData | null> => {
+const getDemographicData = async (geographyCode: number, geographyCodeType464: number): Promise<DemographicData | null> => {
 
-  const [ethnicityResponse, ageResponse] = await Promise.all([
+  const [ethnicityResponse, ageResponse, surfaceAreaResponse] = await Promise.all([
     nomisClient.getEthnicity(geographyCode),
-    nomisClient.getAge(geographyCode)
+    nomisClient.getAge(geographyCode),
+    nomisClient.getSurfaceArea(geographyCodeType464)
   ]);
 
-  if (ethnicityResponse == null || ageResponse == null) return null;
+  if (ethnicityResponse == null || ageResponse == null || surfaceAreaResponse == null) return null;
 
   const simplifiedAgeResponse = nomisResponseService.simplifyAgeData(ageResponse);
 
@@ -23,7 +24,8 @@ const getDemographicData = async (geographyCode: number): Promise<DemographicDat
       values: simplifiedAgeResponse.value,
       labels: simplifiedAgeResponse.label,
       total: simplifiedAgeResponse.value.reduce((x, y) => x + y)
-    }
+    },
+    surfaceAreaHectares: surfaceAreaResponse.value[0]
   }
 
   return demographicData;

@@ -8,7 +8,8 @@ export interface DemographicData {
     values: number[],
     labels: string[],
     total: number
-  }
+  },
+  surfaceAreaHectares: number
 }
 
 export const makeRandomDemographicData = (): DemographicData => ({
@@ -21,5 +22,6 @@ export const makeRandomDemographicData = (): DemographicData => ({
     values: [...Array(5).keys()].map(() => Math.random()),
     labels: [...Array(5).keys()].map(() => Math.random().toString()),
     total: Math.random()
-  }
+  },
+  surfaceAreaHectares: Math.random()
 })

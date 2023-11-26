@@ -36,7 +36,7 @@ const SearchInput = ({setAddress}: Props) => {
 
     setAddress(addressDetails);
 
-    const demographicData = await demographicService.getDemographicData(addressDetails.censusLocationIndex);
+    const demographicData = await demographicService.getDemographicData(addressDetails.censusLocationIndex, addressDetails.type464LocationIndex);
     if (demographicData == null) {
       setDemographicDataFetchStatus(FetchStatus.Error);
       return;

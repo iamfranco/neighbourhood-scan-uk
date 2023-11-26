@@ -24,10 +24,22 @@ describe('searchAddressService', () => {
       label: Math.random().toString(),
       gss: postcodesResponse.result[0].codes.admin_district
     };
-    vi.spyOn(nomisClient, 'getGeographyCached')
+    vi.spyOn(nomisClient, 'getGeographyType154Cached')
       .mockReturnValue([
         makeRandomNomisGeographyResponseItem(),
         nomisGeographyResponseMatchingItem,
+        makeRandomNomisGeographyResponseItem()
+      ]);
+    
+    const nomisGeographyType464ResponseMatchingItem = {
+        value: Math.random(),
+        label: Math.random().toString(),
+        gss: postcodesResponse.result[0].codes.admin_district
+      };
+    vi.spyOn(nomisClient, 'getGeographyType464Cached')
+      .mockReturnValue([
+        makeRandomNomisGeographyResponseItem(),
+        nomisGeographyType464ResponseMatchingItem,
         makeRandomNomisGeographyResponseItem()
       ]);
 
@@ -42,7 +54,8 @@ describe('searchAddressService', () => {
       city: nominatimSearchResponse.address.city,
       censusLocationLabel: nomisGeographyResponseMatchingItem.label,
       censusLocationCode: postcodesResponse.result[0].codes.admin_district,
-      censusLocationIndex: nomisGeographyResponseMatchingItem.value
+      censusLocationIndex: nomisGeographyResponseMatchingItem.value,
+      type464LocationIndex: nomisGeographyType464ResponseMatchingItem.value
     }
     expect(result).toEqual(addressDetails);
   })
@@ -52,7 +65,7 @@ describe('searchAddressService', () => {
     vi.spyOn(nominatimClient, 'search')
       .mockResolvedValue(null);
 
-    vi.spyOn(nomisClient, 'getGeographyCached')
+    vi.spyOn(nomisClient, 'getGeographyType154Cached')
       .mockReturnValue([makeRandomNomisGeographyResponseItem()]);
 
     // Act
@@ -68,7 +81,10 @@ describe('searchAddressService', () => {
     vi.spyOn(nominatimClient, 'search')
       .mockResolvedValue(nominatimSearchResponse);
 
-    vi.spyOn(nomisClient, 'getGeographyCached')
+    vi.spyOn(nomisClient, 'getGeographyType154Cached')
+      .mockReturnValue([makeRandomNomisGeographyResponseItem()]);
+
+    vi.spyOn(nomisClient, 'getGeographyType464Cached')
       .mockReturnValue([makeRandomNomisGeographyResponseItem()]);
 
     vi.spyOn(postcodesClient, 'getPostcodeDetails')
@@ -87,7 +103,10 @@ describe('searchAddressService', () => {
     vi.spyOn(nominatimClient, 'search')
       .mockResolvedValue(nominatimSearchResponse);
 
-    vi.spyOn(nomisClient, 'getGeographyCached')
+    vi.spyOn(nomisClient, 'getGeographyType154Cached')
+      .mockReturnValue([makeRandomNomisGeographyResponseItem()]);
+    
+    vi.spyOn(nomisClient, 'getGeographyType464Cached')
       .mockReturnValue([makeRandomNomisGeographyResponseItem()]);
 
     const postcodesResponse = makeRandomPostcodeDetailsResponse();

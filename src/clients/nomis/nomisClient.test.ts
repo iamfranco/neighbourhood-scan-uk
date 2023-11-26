@@ -2,12 +2,23 @@ import { describe, expect, it} from "vitest";
 import { nomisClient } from "./nomisClient";
 
 describe('nomisClient', () => {
-  it('When getGeographyCached, then return same response as getGeography', async () => {
+  it('When getGeographyType154Cached, then return same response as getGeographyType154', async () => {
     // Arrange
-    const expectedResult = await nomisClient.getGeography();
+    const expectedResult = await nomisClient.getGeographyType154();
 
     // Act
-    const result = nomisClient.getGeographyCached();
+    const result = nomisClient.getGeographyType154Cached();
+
+    // Assert
+    expect(result).toEqual(expectedResult);
+  })
+
+  it('When getGeographyType464Cached, then return same response as getGeographyType464', async () => {
+    // Arrange
+    const expectedResult = await nomisClient.getGeographyType464();
+
+    // Act
+    const result = nomisClient.getGeographyType464Cached();
 
     // Assert
     expect(result).toEqual(expectedResult);
@@ -189,5 +200,29 @@ describe('nomisClient', () => {
 
     // Assert
     expect(result).toBeNull();
+  })
+
+  it('Given valid geography code, when getSurfaceArea, then return correct response', async () => {
+    // Arrange
+    const geographyCode = 1946157083;
+
+    // Act
+    const result = await nomisClient.getSurfaceArea(geographyCode);
+
+    // Assert
+    expect(result).not.toBeNull();
+    if (result == null) return;
+
+    expect(result.value).toEqual([
+      11564.49
+    ]);
+
+    const cell = result.dimension.cell;
+    expect(cell.category.index).toEqual({
+      "6": 0
+    });
+    expect(cell.category.label).toEqual({
+      "6": "Area (Hectares)"
+    });
   })
 })
