@@ -3,6 +3,7 @@ import { demographicService } from "./demographicService";
 import { makeRandomNomisEthnicityResponse } from "../../clients/nomis/models/NomisEthnicityResponse";
 import { nomisClient } from "../../clients/nomis/nomisClient";
 import { makeRandomNomisAgeResponse } from "../../clients/nomis/models/NomisAgeResponse";
+import { nomisResponseService } from "../nomis/nomisResponseService";
 
 describe('demographicService', () => {
   it('Given valid geographyCode, when getDemographicData, then return correct demographic data', async () => {
@@ -17,6 +18,13 @@ describe('demographicService', () => {
     vi.spyOn(nomisClient, 'getAge')
       .mockResolvedValue(nomisAgeResponse);
 
+    const nomisAgeSimplifiedResponse = {
+      value: [...Array(5)].map(() => Math.random()),
+      label: [...Array(5)].map(() => Math.random().toString())
+    };
+    vi.spyOn(nomisResponseService, 'simplifyAgeData')
+      .mockReturnValue(nomisAgeSimplifiedResponse);
+
     // Act
     const result = await demographicService.getDemographicData(geographyCode);
     
@@ -28,9 +36,9 @@ describe('demographicService', () => {
         total: nomisEthnicityResponse.value.reduce((x, y) => x + y)
       },
       age: {
-        values: nomisAgeResponse.value,
-        labels: Object.values(nomisAgeResponse.dimension.c2021_age_102.category.label),
-        total: nomisAgeResponse.value.reduce((x, y) => x + y)
+        values: nomisAgeSimplifiedResponse.value,
+        labels: nomisAgeSimplifiedResponse.label,
+        total: nomisAgeSimplifiedResponse.value.reduce((x, y) => x + y)
       }
     })
   })
