@@ -18,13 +18,24 @@ function App() {
     console.log(address2);
   }, [address1, address2])
 
+  const getMap = (address: AddressDetails | null) => {
+    if (address == null) return <div className='full-width'></div>
+
+    return <div className='full-width'>
+      <div className='map-title'>
+        {address.censusLocationLabel}
+      </div>
+      <iframe
+        className='full-width'
+        referrerPolicy={'no-referrer-when-downgrade'}
+        src={`https://www.google.com/maps/embed/v1/place?key=AIzaSyCNJoGMJ6ZYYZCXgg1ggqwGGQp9iAiltjo&q=(${address.latitude},${address.longitude})`}
+        >
+      </iframe>
+    </div>
+  }
+
   const demographicData1 = address1 && address1.demographicData;
   const demographicData2 = address2 && address2.demographicData;
-
-  useEffect(() => {
-    console.log(demographicData1);
-    console.log(demographicData2);
-  }, [demographicData1, demographicData2])
 
   const barCharts = (demographicData1 || demographicData2) && <>
     <div className='line-chart-container'>
@@ -47,18 +58,30 @@ function App() {
         isHorizontal />
     </div>
   </>
-  
 
   return (
-    <AddressContext.Provider value={{address: address1, setAddress: setAddress1}}>
-      <h1>Neighbourhood Scan UK</h1>
+    <div id='container'>
+      <AddressContext.Provider value={{address: address1, setAddress: setAddress1}}>
+        <h1>Neighbourhood Scan UK</h1>
 
-      <SearchInput setAddress={setAddress1} />
-      <SearchInput setAddress={setAddress2} />
+        <p id='intro-description'>
+          Getting local population demographic data, internet speed, crime data
+        </p>
 
-      {barCharts}
+        <div className='column-container'>
+          <SearchInput setAddress={setAddress1} />
+          <SearchInput setAddress={setAddress2} />
+        </div>
 
-    </AddressContext.Provider>
+        <div className='column-container'>
+          {getMap(address1)}
+          {getMap(address2)}
+        </div>
+
+        {barCharts}
+
+      </AddressContext.Provider>
+    </div>
   )
 }
 

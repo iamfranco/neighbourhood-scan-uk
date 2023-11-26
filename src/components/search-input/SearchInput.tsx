@@ -5,6 +5,7 @@ import { addressDetailsBuilder } from '../../services/addressDetailsBuilder/addr
 import { AddressDetails } from '../../models/AddressDetails';
 import LoadingSpinner from '../loading-spinner/LoadingSpinner';
 import { FetchStatus } from '../../models/FetchStatus';
+import './SearchInput.scss';
 
 interface Props {
   setAddress: React.Dispatch<React.SetStateAction<AddressDetails | null>>
@@ -57,19 +58,18 @@ const SearchInput = ({setAddress}: Props) => {
   }
 
   return (
-    <>
+    <div>
       <form onSubmit={handleSubmit}>
         <input type="text" onChange={handleChange} />
-        <button>Submit</button>
       </form>
 
-      <div>
+      <div className='align-right'>
         address details {getLoadingIcon(addressDetailsFetchStatus)}
       </div>
-      <div>
+      <div className='align-right'>
         demographic data {getLoadingIcon(demographicDataFetchStatus)}
       </div>
-    </>
+    </div>
   )
 }
 

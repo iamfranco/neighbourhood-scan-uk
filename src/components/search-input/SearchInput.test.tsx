@@ -15,7 +15,7 @@ describe('SearchInput component', () => {
 
   afterEach(cleanup)
   
-  it('when user types in address and click submit button, then setAddress called', async () => {
+  it('when user types in address and press enter, then setAddress called', async () => {
     // Arrange
     render(
       <SearchInput setAddress={mockSetAddress} />
@@ -36,9 +36,7 @@ describe('SearchInput component', () => {
     // Act
     const input = screen.getByRole('textbox');
     await user.type(input, 'some address');
-
-    const submitButton = screen.getByRole('button');
-    await user.click(submitButton);
+    await user.type(input, '{enter}');
 
     // Assert
     expect(searchAddressServiceSpy).toHaveBeenCalledWith('some address');
